@@ -1,5 +1,5 @@
 # News App
-### The "News App" is the fourth project of Udacity's Android Developer Nanodegree
+ The "News App" is the sixth project of Udacity's Android Developer Nanodegree
 
 ## Project Overview
 The final project is a chance for you to combine and practice everything you learned in this section of the Nanodegree program. You will be making your own app that connects to the Internet to provide news articles on a topic of your choice.
